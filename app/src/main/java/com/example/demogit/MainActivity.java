@@ -11,10 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    // hong comentewew
-    //Nong huu Nam
-    //Nghiem thi Hong
 
-    /// cácfasiofsanasưewe
-    //djkasdasjdkasewew
+
+    //  dấduahsdahsdahskdakdashjd
 }
